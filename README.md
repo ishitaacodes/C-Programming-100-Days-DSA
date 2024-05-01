@@ -1,2 +1,4 @@
 # DSA
-This file contains code implementations for various data structures and algorithms. It serves as a reference for understanding and practicing DSA concepts.
+I am gonna code the implementations for various data structures and algorithms. 
+<br>
+It serves as a reference for understanding and practicing DSA concepts.
